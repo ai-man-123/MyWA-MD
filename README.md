@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ibb.co/zsnrpRQ"><img src="https://i.ibb.co/ZdLV58G/l3.jpg" alt="l3" border="0"><a>
+<a href="https://ibb.co/zsnrpRQ"><img src="https://github.com/scoder37/MyWA-MD/blob/main/Screenshot_20211203-101528.png?raw=true" alt="l3" border="0"><a>
 </p>
 <h1 align="center">MyWA MD Bot Hosting</h1>
 <h3 align="center">[BOT MULTIDEVICE]</h3>
